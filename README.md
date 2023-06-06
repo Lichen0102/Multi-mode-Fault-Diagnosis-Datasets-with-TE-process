@@ -48,7 +48,7 @@ Fig. 2 Measurements of different modes
 
 Fig. 3 Main variables of different modes
 
-![process disturbances](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\process-disturbances.png)
+![process-disturbances](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\process-disturbances.png)
 
 Fig. 4 Process disturbances
 
