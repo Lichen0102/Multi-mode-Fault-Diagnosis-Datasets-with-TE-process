@@ -40,15 +40,15 @@
 
 We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in *Mode1xInitial.mat* —*Mode6xInitial.mat*. The parameters of different modes are listed in Fig. 2 and Fig. 3. The process disturbances is shown in Fig. 4 ( Datasets *m（1-6）d01-28.mat* correspond to disturbance types IDV(28)-(01) respectively).
 
-![image-20230112125428450](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112125428450.png)
+![image-20230112125428450](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112125428450.png)
 
 Fig. 2 Measurements of different modes
 
-![image-20230112125508800](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112125508800.png)
+![image-20230112125508800](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112125508800.png)
 
 Fig. 3 Main variables of different modes
 
-![process disturbances](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\process disturbances.png)
+![process disturbances](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\process-disturbances.png)
 
 Fig. 4 Process disturbances
 
@@ -64,9 +64,9 @@ Fig. 4 Process disturbances
 
   3. Modify Mode_1_Init to Mode_2_Init by opening  MultiLoop_mode2.mdl  and the steps as follow figures:
 
-  ![image-20230112133934854](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112133934854.png)
+  ![image-20230112133934854](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112133934854.png)
 
-  ![image-20230112133904366](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112133904366.png)
+  ![image-20230112133904366](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112133904366.png)
 
   4. Running *upda.m* and modify as follows:
 
@@ -98,7 +98,7 @@ Fig. 4 Process disturbances
 
 We selected normal data under six modes for display, as shown in Fig. 5.
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112131540357.png" alt="image-20230112131540357" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112131540357.png" alt="image-20230112131540357" style="zoom:50%;" />
 
 Fig. 5 Normal data of six modes; mode 1 in red; mode 2 in green; mode 3 in blue; mode 4 in turquoise; mode 5 in yellow; mode 6 in black
 
@@ -106,35 +106,35 @@ Fig. 5 Normal data of six modes; mode 1 in red; mode 2 in green; mode 3 in blue;
 
 We selected part of the measured data of some faults for display.
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143030234.png" alt="image-20230112143030234" style="zoom: 50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143030234.png" alt="image-20230112143030234" style="zoom: 50%;" />
 
 A
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143054024.png" alt="image-20230112143054024" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143054024.png" alt="image-20230112143054024" style="zoom:50%;" />
 
 B
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143122419.png" alt="image-20230112143122419" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143122419.png" alt="image-20230112143122419" style="zoom:50%;" />
 
 C
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143136774.png" alt="image-20230112143136774" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143136774.png" alt="image-20230112143136774" style="zoom:50%;" />
 
 D
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143150417.png" alt="image-20230112143150417" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143150417.png" alt="image-20230112143150417" style="zoom:50%;" />
 
 E
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143228409.png" alt="image-20230112143228409" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143228409.png" alt="image-20230112143228409" style="zoom:50%;" />
 
 F
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143248418.png" alt="image-20230112143248418" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143248418.png" alt="image-20230112143248418" style="zoom:50%;" />
 
 G
 
-<img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images\image-20230112143402757.png" alt="image-20230112143402757" style="zoom:50%;" />
+<img src="C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112143402757.png" alt="image-20230112143402757" style="zoom:50%;" />
 
 ## Change Log
 
