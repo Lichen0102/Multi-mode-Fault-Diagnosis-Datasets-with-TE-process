@@ -4,7 +4,7 @@
 
 **Tennessee Eastman** (TE) model Is an important tool in all disciplines of systems theory, for comparative studies or validation of algorithms. Its strength is that it is based on real process modeling. This leads to a rather complex nonlinear model of a multi-component system. Due to the frequent use of the model, it is very beneficial that this model, or more precisely its code, works flawlessly [1]. On this basis, a revision and extension of TE process model is proposed and is shown in Fig. .
 
-![image-20230112105115641](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112105115641.png)Fig. 1 P&ID of the revised process model; additional measurements in red [1]
+![image-20230112105115641](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images/image-20230112105115641.png)Fig. 1 P&ID of the revised process model; additional measurements in red [1]
 
 ## Usage
 
@@ -40,7 +40,7 @@
 
 We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in *Mode1xInitial.mat* —*Mode6xInitial.mat*. The parameters of different modes are listed in Fig. 2 and Fig. 3. The process disturbances is shown in Fig. 4 ( Datasets *m（1-6）d01-28.mat* correspond to disturbance types IDV(28)-(01) respectively).
 
-![image-20230112125428450](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112125428450.png)
+![image-20230112125428450](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images/image-20230112125428450.png)
 
 Fig. 2 Measurements of different modes
 
