@@ -38,7 +38,7 @@
 
 ## Dataset Introduction
 
-We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in *Mode1xInitial.mat* —*Mode6xInitial.mat*. The parameters of different modes are listed in Fig. 2 and Fig. 3. The process disturbances is shown in Fig. 4.
+We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in *Mode1xInitial.mat* —*Mode6xInitial.mat*. The parameters of different modes are listed in Fig. 2 and Fig. 3. The process disturbances is shown in Fig. 4 ( Datasets *m（1-6）d01-28.mat* correspond to disturbance types IDV(28)-(01) respectively).
 
 ![image-20230112125428450](C:\Users\65489\AppData\Roaming\Typora\typora-user-images\image-20230112125428450.png)
 
