@@ -138,7 +138,21 @@ G
 
 <img src="https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images/image-20230112143402757.png" alt="image-20230112143402757" style="zoom:50%;" />
 
-## Change Log
+## Citation
+**Please consider citing the following work if you use the datasets:**
+```
+@ARTICLE{10342662,
+  author={Liu, Zeyi and Li, Chen and He, Xiao},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Evidential Ensemble Preference-Guided Learning Approach for Real-Time Multimode Fault Diagnosis}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/TII.2023.3332112}}
+```
+
+## Change log
 
 v1.0(2023/01/12)
 
