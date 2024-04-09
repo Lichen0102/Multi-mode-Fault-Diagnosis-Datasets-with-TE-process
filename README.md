@@ -2,7 +2,7 @@
 
 ## Background
 
-**Tennessee Eastman** (TE) model Is an important tool in all disciplines of systems theory, for comparative studies or validation of algorithms. Its strength is that it is based on real process modeling. This leads to a rather complex nonlinear model of a multi-component system. Due to the frequent use of the model, it is very beneficial that this model, or more precisely its code, works flawlessly [1]. On this basis, a revision and extension of TE process model is proposed and is shown in Fig. .
+**Tennessee Eastman** (TE) model Is an important tool in all disciplines of systems theory, for comparative studies or validation of algorithms. Its strength is that it is based on real process modeling. This leads to a rather complex nonlinear model of a multi-component system. Due to the frequent use of the model, it is very beneficial that this model, or more precisely its code, works flawlessly [1]. On this basis, a revision and extension of TE process model is proposed and is shown in Fig. 1.
 
 ![image-20230112105115641](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images/image-20230112105115641.png)
 
