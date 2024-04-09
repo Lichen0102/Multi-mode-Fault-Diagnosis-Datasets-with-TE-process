@@ -40,7 +40,7 @@ Fig. 1 P&ID of the revised process model; additional measurements in red [1]
 
 ## Dataset Introduction
 
-We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement and 28 variables of disturbance. The adjusted parameters are saved in *Mode1xInitial.mat* —*Mode6xInitial.mat*. The parameters of different modes are listed in Fig. 2 and Fig. 3. The process disturbances is shown in Fig. 4 ( Datasets *m（1-6）d01-28.mat* correspond to disturbance types IDV(28)-(01) respectively).
+We have made six modes of datasets in 72 hours, and there are 28 faults in every mode. All of them contain 12 variables of input, 41 variables of measurement, and 28 variables of disturbance. The adjusted parameters are saved in *Mode1xInitial.mat* —*Mode6xInitial.mat*. The parameters of different modes are listed in Fig. 2 and Fig. 3. The process disturbances are shown in Fig. 4 ( Datasets *m（1-6）d01-28.mat* correspond to disturbance types IDV(28)-(01) respectively).
 
 ![image-20230112125428450](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process/tree/main/Typora/typora-user-images/image-20230112125428450.png)
 
@@ -56,7 +56,7 @@ Fig. 4 Process disturbances
 
 ### Adjustment of mode
 
-- User can adjust parameters to achieve different modes by themselves.
+- Users can adjust parameters to achieve different modes by themselves.
 
 - Example (mode 2)
 
@@ -158,7 +158,7 @@ v1.0(2023/01/12)
 
 ## About us
 
-- We are from the research group of Prof. Xiao He, Department of Automation, Tsinghua University.
+- We are from the THUFDD group of Prof. Xiao He and Prof. Donghua Zhou, Department of Automation, Tsinghua University.
 - Welcome to discuss and put forward valuable suggestions. Email: [liuzy21@mails.tsinghua.edu.cn](mailto:liuzy21@mails.tsinghua.edu.cn), yan12@mails.tsinghua.edu.cn.
 
 [1] Andreas, Bathelt, N, et al. Revision of the Tennessee Eastman Process Model[J]. IFAC-PapersOnLine, 2015, 48(8):309-314.
