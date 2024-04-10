@@ -160,4 +160,5 @@ v1.0(2023/01/12)
 - We are from the THUFDD group of Prof. Xiao He and Prof. Donghua Zhou, Department of Automation, Tsinghua University.
 - Welcome to discuss and put forward valuable suggestions. Email: [liuzy21@mails.tsinghua.edu.cn](mailto:liuzy21@mails.tsinghua.edu.cn), yan12@mails.tsinghua.edu.cn.
 
+## References
 [1] Andreas, Bathelt, N, et al. Revision of the Tennessee Eastman Process Model[J]. IFAC-PapersOnLine, 2015, 48(8):309-314.
