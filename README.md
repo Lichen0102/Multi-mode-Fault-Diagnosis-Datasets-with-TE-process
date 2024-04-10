@@ -144,10 +144,11 @@ G
   author={Liu, Zeyi and Li, Chen and He, Xiao},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={Evidential Ensemble Preference-Guided Learning Approach for Real-Time Multimode Fault Diagnosis}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-10},
+  year={2024},
+  volume={20},
+  number={4},
+  pages={5495-5504},
+  keywords={Fault diagnosis;Real-time systems;Monitoring;Learning systems;Production;Informatics;Dynamical systems;Broad learning system (BLS);concept drift;evidential reasoning (ER);real-time multimode fault diagnosis (MMFD);Tennessee Eastman process},
   doi={10.1109/TII.2023.3332112}}
 ```
 
